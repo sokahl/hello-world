@@ -1,2 +1,2 @@
 # hello-world
-Getting comfy with GItHub
+Getting comfy with GitHub
